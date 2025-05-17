@@ -27,7 +27,7 @@ Plot the performance plot
 Evaluate the model with the testing data.
 ## PROGRAM:
 ### Name: Rithiga Sri.B
-### Register Number: 212221230083
+### Register Number: 212222060270
 ```python
 from google.colab import auth
 import gspread
